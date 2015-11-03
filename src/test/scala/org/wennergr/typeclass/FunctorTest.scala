@@ -1,3 +1,5 @@
+package org.wennergr.typeclass
+
 import org.scalacheck.{Gen, Arbitrary}
 import org.scalacheck.Arbitrary._
 import org.scalatest.prop.GeneratorDrivenPropertyChecks
